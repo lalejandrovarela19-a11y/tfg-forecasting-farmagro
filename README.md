@@ -6,9 +6,9 @@ Construye pronósticos probabilísticos de demanda mensual por producto (mediana
 
 ## 📊 Ver el informe
 
-[![Abrir informe]()
+[![Abrir informe](https://img.shields.io/badge/Abrir%20informe-interactivo-2ea44f?style=for-the-badge)](https://lalejandrovarela19-a11y.github.io/tfg-forecasting-farmagro/)
 
-👉 ****
+👉 **https://lalejandrovarela19-a11y.github.io/tfg-forecasting-farmagro/**
 
 El informe se abre directo en el navegador, sin instalar nada. El archivo fuente es [`index.html`](index.html).
 
