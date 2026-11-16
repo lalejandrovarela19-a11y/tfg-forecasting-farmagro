@@ -11,3 +11,9 @@ Construye pronósticos probabilísticos de demanda mensual por producto (mediana
 👉 ****
 
 El informe se abre directo en el navegador, sin instalar nada. El archivo fuente es [`index.html`](index.html).
+
+## 📄 Versión PDF
+
+[![Descargar PDF](https://img.shields.io/badge/Informe-PDF-b31b1b?style=for-the-badge)](Forecasting_FarmAgro_informe.pdf)
+
+[`Forecasting_FarmAgro_informe.pdf`](Forecasting_FarmAgro_informe.pdf) — mismo contenido, listo para leer o imprimir.
