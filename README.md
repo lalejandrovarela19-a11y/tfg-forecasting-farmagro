@@ -4,4 +4,10 @@ Trabajo Final de Graduación de la Licenciatura en Ingeniería Física, Institut
 
 Construye pronósticos probabilísticos de demanda mensual por producto (mediana + intervalo de predicción) para apoyar la planificación de compras de inventario, y los compara con la regla de reposición actual de la empresa.
 
-📄 `index.html` — informe interactivo con los resultados.
+## 📊 Ver el informe
+
+[![Abrir informe](https://img.shields.io/badge/Abrir%20informe-interactivo-2ea44f?style=for-the-badge)](https://lalejandrovarela19-a11y.github.io/tfg-forecasting-farmagro/)
+
+👉 **https://lalejandrovarela19-a11y.github.io/tfg-forecasting-farmagro/**
+
+El informe se abre directo en el navegador, sin instalar nada. El archivo fuente es [`index.html`](index.html).
